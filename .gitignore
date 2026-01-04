@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -144,3 +145,6 @@ models/*.pkl
 
 # vscode Stuff
 .vscode
+tmp/
+*Kopie*
+*.bak
